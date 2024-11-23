@@ -1,5 +1,5 @@
  1. Вывести все поля и все строки.
-SELECT * FROM users;
+ SELECT * FROM users;
  2. Вывести всех студентов в таблице
  SELECT student FROM users; 
  3. Вывести только Id пользователей
